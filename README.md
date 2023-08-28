@@ -1,0 +1,2 @@
+# Petstagram
+DJANGO example project
